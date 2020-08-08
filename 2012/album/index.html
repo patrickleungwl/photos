@@ -25,7 +25,7 @@ function keypress(e) {
 		case 63273: case 36: window.location="index.html"; return preventDefault(e); break;
 		case 63275: case 35: window.location="index.html"; return preventDefault(e); break;
 		case 32: show_down(); setTimeout('show_out()', 200); return preventDefault(e); break;
-		case 13: window.location="slides/20120304_1314_125.html?show_param=3"; return preventDefault(e); break;
+		case 13: window.location="slides/20120304_1314_125.html?show_param=4"; return preventDefault(e); break;
 	}
 	return true;
 }
@@ -44,7 +44,7 @@ show1 = new Image(31,31);show1.src = "res/show1.gif";
 stop0 = new Image(31,31);stop0.src = "res/stop.gif";
 stop1 = new Image(31,31);stop1.src = "res/stop1.gif";
 
-var delay = 3;
+var delay = 4;
 function show_over() { 
 	document.getElementById("show").src = show1.src;;
 }
@@ -55,7 +55,7 @@ function show_down() {
 	window.location="slides/20120304_1314_125.html?show_param="+delay+ "";
 }
 function change_delay() { 
-	delay = prompt('delay', 3);
+	delay = prompt('delay', 4);
 }
 function redirect() {
 }
@@ -492,14 +492,14 @@ window.onload = function() {
 
 <br />
 <table style="width:960px;" align="center" class="infotable" cellspacing="0" cellpadding="2">
-<tr><td align="center" class="xsmalltxt">Total images: <strong>65</strong> | Create <a href="http://jalbum.net/" target="_blank">web photo albums</a> with <a href="http://jalbum.net" title="Freeware web photo album generator, v10.10.8" target="_blank">Jalbum</a> | <a href="http://lazaworx.com/" title=" Chameleon v4.6.7 Aqua_dark skin by LazaWorx " target="_blank">Chameleon</a> skin | <a href="javascript:void(0)" onclick="window.open('help.html','Help','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes,width=560,height=560')">Help</a></td></tr>
+<tr><td align="center" class="xsmalltxt">Total images: <strong>65</strong> | Create <a href="http://jalbum.net/" target="_blank">web photo albums</a> with <a href="http://jalbum.net" title="Freeware web photo album generator, v10.10.8" target="_blank">Jalbum</a> | <a href="http://lazaworx.com/" title=" Chameleon v4.6.7 Black skin by LazaWorx " target="_blank">Chameleon</a> skin | <a href="javascript:void(0)" onclick="window.open('help.html','Help','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes,width=560,height=560')">Help</a></td></tr>
 </table>
 
 </div>
 <div id="jalbumwidgetcontainer"></div>
 <script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
 _jaSkin = "Chameleon";
-_jaStyle = "Aqua_dark.css";
+_jaStyle = "Black.css";
 _jaVersion = "10.10.8";
 _jaGeneratorType = "desktop";
 _jaLanguage = "en";
