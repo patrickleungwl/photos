@@ -1,0 +1,72 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+s20060425_1714_261.jpg
+s20060425_1714_262.jpg
+s20060425_1809_269.jpg
+s20060425_1817_270.jpg
+s20060425_1830_273.jpg
+s20060425_2026_277.jpg
+s20060425_2026_278.jpg
+s20060427_0159_325.jpg
+s20060427_0159_326.jpg
+s20060427_1740_338.jpg
+s20060427_1746_342.jpg
+s20060427_1813_344.jpg
+s20060420_1820_003.jpg
+s20060420_1820_004.jpg
+s20060420_1820_005.jpg
+s20060420_1832_014.jpg
+s20060420_1832_015.jpg
+s20060420_1832_016.jpg
+s20060420_1833_019.jpg
+s20060420_1833_020.jpg
+s20060420_1854_0262.jpg
+s20060420_1858_030.jpg
+s20060420_1908_035.jpg
+s20060420_1909_039.jpg
+s20060420_1910_040.jpg
+s20060420_1912_043.jpg
+s20060420_1926_048.jpg
+s20060420_1934_059.jpg
+s20060421_1702_077.jpg
+s20060421_1702_079.jpg
+s20060421_1705_080.jpg
+s20060421_1705_081.jpg
+s20060421_1710_087.jpg
+s20060421_1712_090.jpg
+s20060421_1712_092.jpg
+s20060421_1715_101.jpg
+s20060421_1722_108.jpg
+s20060421_1724_111.jpg
+s20060421_1726_117.jpg
+s20060421_1726_1172.jpg
+s20060421_1726_1173.jpg
+s20060421_1726_1174.jpg
+s20060421_1903_176.jpg
+s20060421_1903_177.jpg
+s20060421_1904_179.jpg
+s20060421_1911_185.jpg
+s20060421_1911_186.jpg
+s20060421_1912_187.jpg
+s20060421_2102_190.jpg
+s20060421_2103_191.jpg
+s20060421_2103_192.jpg
+s20060421_2103_193.jpg
+s20060421_2106_198.jpg
+s20060423_1649_209.jpg
+s20060423_1651_212.jpg
+s20060423_1716_220.jpg
+s20060423_1722_222.jpg
+s20060423_1732_230.jpg
+s20060423_1733_231.jpg
+s20060423_1743_235.jpg
+s20060423_1745_236.jpg
+s20060423_1746_237.jpg
+s20060423_1804_241.jpg
+s20060425_1714_260.jpg
