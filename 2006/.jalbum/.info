@@ -11,11 +11,11 @@
   </void>
   <void method="put">
    <string>lastMadeDate</string>
-   <long>1596940831766</long>
+   <long>1596941986052</long>
   </void>
   <void method="put">
    <string>imageLinking</string>
-   <string>LinkScaled</string>
+   <string>LinkHiResViaScaled</string>
   </void>
   <void method="put">
    <string>createdDate</string>
