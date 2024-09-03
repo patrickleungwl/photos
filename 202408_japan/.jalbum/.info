@@ -27,11 +27,11 @@
   </void>
   <void method="put">
    <string>imageLinking</string>
-   <string>LinkScaled</string>
+   <string>LinkHiResViaScaled</string>
   </void>
   <void method="put">
    <string>imageSettingsHash</string>
-   <string>b5dfe20ba27d3cc81f3c742c51487c61</string>
+   <string>b5ca10e967356c0543653e3f23c73c90</string>
   </void>
   <void method="put">
    <string>projectSettings</string>
@@ -39,7 +39,7 @@
   </void>
   <void method="put">
    <string>lastMadeDate</string>
-   <long>1725336859636</long>
+   <long>1725337518089</long>
   </void>
  </object>
 <void class="se.datadosen.jalbum.ProjectSettings" id="Field0" method="getField">
@@ -1115,7 +1115,7 @@
   </void>
   <void method="put">
    <string>imageLinking</string>
-   <string>LinkScaled</string>
+   <string>LinkHiResViaScaled</string>
   </void>
   <void method="put">
    <string>directory</string>
@@ -1223,7 +1223,7 @@
   </void>
   <void method="put">
    <string>imageSize</string>
-   <string>800x600</string>
+   <string>1024x1024</string>
   </void>
   <void method="put">
    <string>hiResDirectory</string>

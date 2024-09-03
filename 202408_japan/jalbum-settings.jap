@@ -1,5 +1,5 @@
 #jAlbum Project
-#Tue Sep 03 00:14:27 EDT 2024
+#Tue Sep 03 00:25:21 EDT 2024
 skin.slideGuestBookRating=true
 class=class se.datadosen.jalbum.AlbumBean
 skin.logoMargin=20
@@ -184,7 +184,7 @@ skin.xpTitle=true
 writeUTF8=true
 skin.watermarkText=
 skin.tsLabel=false
-imageLinking=LinkScaled
+imageLinking=LinkHiResViaScaled
 includeDirectories=true
 skin.homepageTarget2=true
 skin.thumbBorderWidth=1
@@ -211,7 +211,7 @@ visibleOnProfilePage=true
 skin.customScrollbars=false
 skin.logoHorAlign=right
 skin.watermarkHorAlign=right
-imageSize=800x600
+imageSize=1024x1024
 skin.paypalSelect8=
 skin.paypalSelect7=
 skin.paypalSelect6=
